@@ -1,6 +1,6 @@
 # learn some basic Rust
 
-# run rust app
+## run rust app
 ```bash
 cargo run
 ```
